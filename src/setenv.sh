@@ -1,6 +1,6 @@
 export GITACCOUNT=467441053@qq.com
 
-export MYCLUSTER=jiangyou
+export MYCLUSTER=tektonknativebeijing05
 export KUBECONFIG=
 
 export NAMESPACE=jiangyou
